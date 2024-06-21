@@ -1,5 +1,5 @@
 # 💫 About Me:
-**About Me**<br><br>Hello! My name is Nafis Rayan, and I am currently pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University, Dhaka, Bangladesh, with an expected graduation year of 2025.<br><br>### Skills<br>- **Programming Languages:** HTML & CSS, C & C++, JavaScript, Python<br>- **Frameworks & Tools:** Flask, Django, ThreeJS<br>- **Expertise:** Data Analysis, Machine Learning, Graphics Design, Computer Vision<br><br>Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or opportunities.
+**About Me**<br><br>Hello! My name is Nafis Rayan, and I am currently pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University, Dhaka, Bangladesh, with an expected graduation year of 2025.<br><br>Skills<br>- **Programming Languages:** HTML & CSS, C & C++, JavaScript, Python<br>- **Frameworks & Tools:** ReactJS, NextJS, NodeJS, Flask, Django, ThreeJS<br>- **Expertise:** Data Analysis, Machine Learning, Graphics Design, Computer Vision<br><br>Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or opportunities.
 
 
 ## 🌐 Socials:
@@ -12,10 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NafisRayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisRayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### ✍️ Just a Random Quote
+The best way to learn something is to build something
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
