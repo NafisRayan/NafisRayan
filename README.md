@@ -12,6 +12,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NafisRayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisRayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisRayan&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
+
 ### ✍️ Just a Random Quote
 The best way to learn something is to build something
 
