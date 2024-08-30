@@ -1,5 +1,5 @@
 # 💫 About Me:
-**About Me**<br><br>Hello! My name is Nafis Rayan, and I am currently pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University, Dhaka, Bangladesh, with an expected graduation year of 2025.<br><br>Skills<br>- **Programming Languages:** HTML & CSS, C & C++, JavaScript, Python<br>- **Frameworks & Tools:** ReactJS, NextJS, NodeJS, Flask, Django, ThreeJS<br>- **Expertise:** Data Analysis, Machine Learning, Graphics Design, Computer Vision<br><br>Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or opportunities.
+**About Me**<br><br>Hello! My name is Nafis Rayan, and I am currently pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University, Dhaka, Bangladesh, with an expected graduation year of 2025.<br><br>Skills<br>- **Proficient Languages:** HTML & CSS, C & C++, JavaScript, Python<br>- **Frameworks & Tools:** ReactJS, NextJS, NodeJS, Flask, Django, ThreeJS, Blender<br>- **Expertise:** Web & App Development, Data Analysis, Machine Learning, Graphics Design, Computer Vision<br><br>Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or opportunities.
 
 
 ## 🌐 Socials:
