@@ -1,5 +1,5 @@
 # 💫 About Me:
-**About Me**<br><br>Hello! My name is Nafis Rayan, and I am currently pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University, Dhaka, Bangladesh, with an expected graduation year of 2025.<br><br>Skills<br>- **Proficient Languages:** HTML & CSS, C & C++, JavaScript, Python<br>- **Frameworks & Tools:** ReactJS, NextJS, NodeJS, Flask, Django, ThreeJS, Blender<br>- **Expertise:** Web & App Development, Data Analysis, Machine Learning, Graphics Design, Computer Vision<br><br>Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or opportunities.
+**About Me**<br><br>Hello! My name is Nafis Rayan, I'm a part-time Software Engineer, also pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University, with an expected graduation year of 2025.<br><br><br>- **Proficient Languages:** HTML & CSS, C & C++, JavaScript, Python, Dart.<br>- **Frameworks & Tools:** ReactJS, NextJS, NodeJS, Flask, Django, ThreeJS, Blender.<br>- **Expertise:** Web & App Development, Data Analysis, Machine Learning, UI/UX Design, Computer Vision.<br><br>Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or opportunities.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,4 @@
 
 ---
 
-### ✍️ Just a Random Quote
-The best way to learn something is to build something
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ The best way to learn something is to build something :D
